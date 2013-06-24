@@ -1,0 +1,7 @@
+{
+    "versao": "0.1",
+    "messages": [
+        {"cod":"3", "message": "Mensagem de Erro 3"},
+        {"cod":"4", "message": "Mensagem de Erro 4"}
+    ]
+}
